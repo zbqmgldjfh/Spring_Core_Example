@@ -15,3 +15,7 @@ Spring 핵심원리 공부
 #### [8장. 빈 생명주기 콜백](https://blog.naver.com/zbqmgldjfh/222512382499)
 #### [9장. 빈 스코프](https://blog.naver.com/zbqmgldjfh/222513330894)
 ----
+#### src 폴더는 main과 Test로 나눴습니다.  
+--> main : 주요 핵심 파일들
+  
+--> Test : Test 코드들의 집합
